@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3620-network-recovery-pathways](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/3620-network-recovery-pathways) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
