@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
