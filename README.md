@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2652-sum-multiples](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2652-sum-multiples) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
