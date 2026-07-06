@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0682-baseball-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3620-network-recovery-pathways](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
