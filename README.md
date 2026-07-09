@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0682-baseball-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3620-network-recovery-pathways](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/3620-network-recovery-pathways) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
