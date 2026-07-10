@@ -20,3 +20,6 @@ public:
         return ans;
     }
 };
+
+
+// prefix array approach O(n) SC & TC
