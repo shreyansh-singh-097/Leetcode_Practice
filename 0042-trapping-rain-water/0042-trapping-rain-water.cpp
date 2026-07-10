@@ -25,3 +25,5 @@ public:
 };
 
 // Two pointer approach 
+// TC O(n)
+// SC(1)
