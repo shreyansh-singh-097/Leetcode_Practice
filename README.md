@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [2652-sum-multiples](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
