@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0682-baseball-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
