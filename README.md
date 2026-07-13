@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0682-baseball-game) |
 | [1672-richest-customer-wealth](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/1672-richest-customer-wealth) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
