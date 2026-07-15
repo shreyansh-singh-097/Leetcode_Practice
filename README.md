@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0239-sliding-window-maximum) |
 | [3620-network-recovery-pathways](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -102,8 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
