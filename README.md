@@ -120,4 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/1068-product-sales-analysis-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
