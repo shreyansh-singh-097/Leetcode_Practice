@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Shr
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Shr
 | [0013-roman-to-integer](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0504-base-7](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0504-base-7) |
 | [2652-sum-multiples](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/2652-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Shr
 | [0020-valid-parentheses](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0257-binary-tree-paths) |
 | [0504-base-7](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/0504-base-7) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyansh-singh-097/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
